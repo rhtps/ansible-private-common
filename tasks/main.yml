@@ -17,7 +17,3 @@
     owner: root
     mode: 0644
 
-#- name: make yum cache
-#  command: yum makecache
-#  async: 1200
-#  poll: 60
